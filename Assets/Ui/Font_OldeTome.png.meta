@@ -1,0 +1,5298 @@
+fileFormatVersion: 2
+guid: a72ac355a9b9c1c4c90739c06b4b5d05
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6173162795192033615
+    second: Font_OldeTome_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Font_OldeTome_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 353
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d42fd5640c619f34987fecd3257ec69f
+      internalID: 1179998398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_1
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 353
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdafe1603b2ff58498caaf48b15447b1
+      internalID: -1072549303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_2
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 353
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c41a291933aae8e4dbe5903d4cda1f65
+      internalID: -1530343614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_3
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 353
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99302a05f5cd9e244a52e932fe2a61e2
+      internalID: -1398616943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_4
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 353
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab96722ca39950c4ca56e223d9a0a534
+      internalID: -2025965911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_5
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 353
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 553bbea887d0e7844a99361ef80243ea
+      internalID: 1124809458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_6
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 353
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dba9c30840f59a418c73f575b73062a
+      internalID: 642225089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_7
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 353
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47cf79ec1a8f51946ad8af829aa850e4
+      internalID: -717825198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_8
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 353
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c32023b01f8e77e4baa8005a963b5d7e
+      internalID: 810673955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_9
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 353
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef614e3e493923048ac15e69203ba90e
+      internalID: 409046264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_10
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 353
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaa74ea7fe9642143845fd526220d022
+      internalID: 2064047240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_11
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 353
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dfde30faae9f824c8fa50b7376f91ff
+      internalID: 2047783023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_12
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 353
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8468d8ebdd848ac488bfa840a35efd04
+      internalID: 1619189279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_13
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 353
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8aa4c3b67121ec4ea17cd0e608a618c
+      internalID: -68404459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_14
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 330
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ceae2032e1bae244a9727638c0c684d
+      internalID: -2127451829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_15
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 330
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43cd09fe0f544c1409b8530a2264f62a
+      internalID: -1497922842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_16
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 330
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fef617e177486a44bd95f23d6c3a64c
+      internalID: 369468581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_17
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 330
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01d5d28de1b63b44db20f0d6ada3db5e
+      internalID: -1738052843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_18
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 330
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c92dfdc66fbc934481b7b74697be93a
+      internalID: -590049700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_19
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 330
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b3ca2fbe49028f428f7b8c32422191d
+      internalID: -881276379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_20
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 330
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bbfb685fde67de448b8bbb3d5d69d84
+      internalID: 1292739255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_21
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 330
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ccd8de18fb02f546bd5496e6dd187ae
+      internalID: -1824731643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_22
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 330
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0346bf7e0ad24a459026318460d77bc
+      internalID: -1595955800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_23
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 330
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a95f24b26addc944a5ba79f7e42ec63
+      internalID: 2115968203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_24
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 330
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a169604cb5fbefc4181227ba055d57e0
+      internalID: 1588887476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_25
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 330
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e91bede3c64de14e9ba98bb3a1c6cca
+      internalID: 1374182593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_26
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 330
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80574c00b409afc4b9037c4d15a04e1d
+      internalID: 2116555389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_27
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 330
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b0e4740b94bb4c4ba5dc3130cb2c7ac
+      internalID: 777550987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_28
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 307
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc1fbf60a581c1f49b021d214d55fb89
+      internalID: 2085617538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_29
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 307
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd06c5b847500d5469e327bc22ed007b
+      internalID: -808585007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_30
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 307
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4167639d71a23584f8700e7f66f64e37
+      internalID: -745485058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_31
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 307
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7978e184cbd2c644e84bf30d36394ef2
+      internalID: 1536253570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_32
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 307
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4da6006168610ce469b815ee3cd3b08d
+      internalID: 382131359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_33
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 307
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32adf345ba6bae34aa7c753181a29dee
+      internalID: 1968317254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_34
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 307
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a86ef49d186d6c4d9a15c5fce99418f
+      internalID: 1303651428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_35
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 307
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1fdd0d7b9018ac439e83be7db1779fe
+      internalID: 950669023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_36
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 307
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 287b02353f516a548b4733d8842c25f6
+      internalID: -407139775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_37
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 307
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02b8d7952d9f8b149a7e244a087d9c5a
+      internalID: -1755892729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_38
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 307
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9395b484f40f5454e8aa9a725d2ce295
+      internalID: 1424058473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_39
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 307
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f2f0a2dba64a904db838a02da82e2be
+      internalID: 1736185789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_40
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 307
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3c82cc6493b9cb419b42820539a381c
+      internalID: -1316080278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_41
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 307
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa343046e926824cbed1735e79ec012
+      internalID: -1763605571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_42
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 284
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaa013ebf7d7d314386498618764f131
+      internalID: -376487706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_43
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 284
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e59ef8fc575ede24683150d78ff677fd
+      internalID: -1702030683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_44
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 284
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3260bd7ab8599c4fa3f87d428fc9195
+      internalID: -929983532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_45
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 284
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f25e3b75e8a82904a96ae9c5c6004e0e
+      internalID: -1979383397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_46
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 284
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b87f16d345e85c4fbf2682c899f9cd2
+      internalID: -2116105352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_47
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 284
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3511cf35b966c5d478caa3def9321976
+      internalID: 2094589792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_48
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 284
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83ffd268bab03f2469444b82fb68169e
+      internalID: 1732433394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_49
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 284
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d072e3a5216fa2946804531ed0732170
+      internalID: -1290537688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_50
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 284
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 531359ecbf92e4f4c87ae73a72777506
+      internalID: -1322940335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_51
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 284
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 343b681ae811f594d8fa994bd888ad00
+      internalID: -347872523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_52
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 284
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebf6fcff4652a7044864897ff5e22987
+      internalID: 1823050137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_53
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 284
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecccfb525dd1efc40ba87d015c768dbb
+      internalID: 945332046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_54
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 284
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a837311b38c62d74086a9438f5a8f183
+      internalID: -1033077770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_55
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 284
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b19348eaf26b7864f94a207e88da5ff8
+      internalID: -126059797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_56
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 261
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efe1a7ac6ec7ff74ca280f2d0a692e1b
+      internalID: -351744740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_57
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 261
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ca96901093c6ad46828b38505e83dec
+      internalID: 2045430243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_58
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 261
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38cc7d1b0b9a2bb489ec3b4ac6431a76
+      internalID: 2080317435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_59
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 261
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c031916517b986488744d6b73a369d9
+      internalID: 1046911160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_60
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 261
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e02f12be11352c34ab9a05382323cb6c
+      internalID: 890150399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_61
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 261
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ec4e4f66f96e3c4e8b600fad24e07ef
+      internalID: 1265810853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_62
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 261
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a13e014def37ab442ba07f111632b968
+      internalID: 46826199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_63
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 261
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb565cfce28bb78448218ac37b985c9c
+      internalID: -1970140818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_64
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 261
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8dd524d15a9bf0448ccc2e559e8a35b
+      internalID: -1074215857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_65
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 261
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f565a5ab11939a648b7c4fe2f4374fd6
+      internalID: -1232150475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_66
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 261
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7749bffd6fbd374693f640c66c328e5
+      internalID: -339283658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_67
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 261
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de6e6b88d47d0e748b846d303c148403
+      internalID: 1127783199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_68
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 261
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ca3f8e89ebe8274680600af7c0e126a
+      internalID: 1837138096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_69
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 261
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbf28740ff442f445be3d142b3f5c9fb
+      internalID: 1466742593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_70
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 238
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91c09d56993de284e8229510875f5d86
+      internalID: 1953504450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_71
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 238
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57bb1c67fa87a8e459a74435a65d49ee
+      internalID: 906389597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_72
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 238
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e19af61257d3994dbd01080b6fd6641
+      internalID: -637374176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_73
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 238
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ef87b1cda4076149a7994b5c688ea2a
+      internalID: -657795280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_74
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 238
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd425ddd2d6a2184ea927fe74d2cd077
+      internalID: -885335661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_75
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 238
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57c40173b0ed82e46814726b084fad22
+      internalID: 807030948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_76
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 238
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36ebee0cfb0c02743a8c9c7dcadafbfe
+      internalID: -254482925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_77
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 238
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3ca528155bdd0f4f9ec2921eac17827
+      internalID: 1686618295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_78
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 238
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f42d954cce9a6643b0849f72f4c01e0
+      internalID: 1868249081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_79
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 238
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 921ab5fe62409da44a2806cf19e9aa07
+      internalID: -2058470266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_80
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 238
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adf24fece10939b44b57bfba95d7a03d
+      internalID: 1482518865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_81
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 238
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 593b1e4e80695eb4cbb8bb7f83748a57
+      internalID: -270853219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_82
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 238
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c13280f5d2877046a1a9462e7d95aa8
+      internalID: -1592409359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_83
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 238
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 318b0524ff9440c43898a14ef997af86
+      internalID: -222959248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_84
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 215
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2da4d8e4f095474ba7f3c3b35ffdbf4
+      internalID: -1946123378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_85
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 215
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01be21fcce2da8844abd93a212e4307a
+      internalID: 133348265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_86
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 215
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 472f0e6e06f4c8e4c9da37157b4f6019
+      internalID: -1946678849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_87
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 215
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41d07ca8755383b47a597c0f5fd9c207
+      internalID: 695396645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_88
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 215
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df12edf80f4869344abbe35dce7ab3d3
+      internalID: -309146223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_89
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 215
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb51ad01f2be72347bb00acb70e9f0ca
+      internalID: 1800257463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_90
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 215
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7991fca80a286cf4ea662119c7343ef8
+      internalID: 1402995281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_91
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 215
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fec521612eeb75a4ba549f9cf4eb20c5
+      internalID: 1459705185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_92
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 215
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3f03a0439ccaa34694b3f4230e654d2
+      internalID: -969558777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_93
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 215
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fe81e55ebd2b2c40bb4a289da13e701
+      internalID: -51029754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_94
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 215
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc7490ab1935b384a867451a52398767
+      internalID: -337541553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_95
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 215
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c1aac64357120640b24f73d10f935e7
+      internalID: -1327674233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_96
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 215
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f6cb12e74295d240ac985f1440936d9
+      internalID: 2075242181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_97
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 215
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ac1d5aa746bcd8498a20b949995b2ec
+      internalID: 289888350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_98
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 192
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e3982dfe590139498ad9974e9603f08
+      internalID: -551812840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_99
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 192
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26c15f89e74536a499aab787f8855b04
+      internalID: -981572026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_100
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 192
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cce653bc91bd97d4cbb6fa7783fadac6
+      internalID: -1811965151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_101
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 192
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2218e70219bd274488428a5dad6713c
+      internalID: 815555442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_102
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 192
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7de6f55556018cc4fab0870838319fac
+      internalID: -106597818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_103
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 192
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afe516951b5bbe54893e5e7b0748a0a0
+      internalID: 269876419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_104
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 192
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45b888ed84f0dcb408b82735e347b8f1
+      internalID: 1576392274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_105
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 192
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c0e00741e44d4744a3ca1a38641dd27
+      internalID: 1402079990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_106
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 192
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a214d07841d4e741a3ceb6699b6328c
+      internalID: 1364277031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_107
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 192
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 236d2ad1a3eb067479d9e470312016ea
+      internalID: 914172328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_108
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 192
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36a2b039fdeb83840834c8d4162b4207
+      internalID: 1629073657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_109
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 192
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3d235db07355824383639c3883be72e
+      internalID: -781184426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_110
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 192
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2df0fe5c8f958745a9f87e6cb05ec41
+      internalID: 1286007405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_111
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 192
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e16c7d8ad8e4e946b6e5b1c3874add9
+      internalID: -1609655249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_112
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 169
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84364086e4a0fff4eb19ef81bdeac47e
+      internalID: -2051446005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_113
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 169
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 981e411a15d52ff41b82acd19ee5fcc2
+      internalID: -1852312248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_114
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 169
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62e165149ca43734f8574a4edb50f438
+      internalID: 464637145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_115
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 169
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 705747ebced7cde4186afc5fd8ef7dda
+      internalID: -1369570097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_116
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 169
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba2d168c7de9bd148ab6255d0a108fb7
+      internalID: -82442800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_117
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 169
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bc9fc999f29ce44db3579983ff783f7
+      internalID: 1972128750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_118
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 169
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06810fe46b2433a4b97b31d99fa50acf
+      internalID: -1669818504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_119
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 169
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 602e68d611ed2e945ae352a6cbf9e2ee
+      internalID: -1634641726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_120
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 169
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b3188d8f4f6491498d06407fe6848a5
+      internalID: 581278215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_121
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 169
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27eb3601d4b69d7488ae09fef5de2b6f
+      internalID: -1521800600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_122
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 169
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5869506f0b9b9cb4da942134ffb73537
+      internalID: -1714511825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_123
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 169
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeb2f2f5ad4eaa94088ddbc7eb0a2a60
+      internalID: -1215906414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_124
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 169
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c490b7584220a7b4bb3e03bcc452e172
+      internalID: 946192395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_125
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 169
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6468b19717f542445a5be2a5876d1619
+      internalID: 267667110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_126
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 146
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 829e55fb130f26f4cbe284deb77b7324
+      internalID: 1917565694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_127
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 146
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2c769d95d442634b9b6d0f2b53a46ed
+      internalID: 85524439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_128
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 146
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 618278b899faf2949a4dde1e9659ae01
+      internalID: -377614301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_129
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 146
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3d44abb0f284f94ab3ccfe39f0740be
+      internalID: 1544289498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_130
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 146
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4760845b282f8f54091b0bcb9efe8da3
+      internalID: -686230193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_131
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 146
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbce06ba94109bc4286ce9641a4687e7
+      internalID: 507931729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_132
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 146
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c686b829fa1d4044fb1663fe3940b73f
+      internalID: 206662267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_133
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 146
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 734f685bd11dbbe408b1a0b0533f5a18
+      internalID: 2041759091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_134
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 146
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4251c37a5d1307348b2203c327dfaec2
+      internalID: -916030653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_135
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 146
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1046a81a1a7c1a943af0cb883a4020c4
+      internalID: 887416624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_136
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 146
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f38f6964b797394ea7ca924c4cddf41
+      internalID: 1801594730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_137
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 146
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 214662f213cea0f41b2f627c9365d387
+      internalID: -64833169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_138
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 146
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67e3f92632178a74288fd89412dd1f25
+      internalID: -1732457634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_139
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 146
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06c66d814358420488e75904675119b6
+      internalID: 1737942442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_140
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 123
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7298742e4ea2fb645a920fb4de9118ae
+      internalID: 1157400147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_141
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 123
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8180441a477772d46822de3fdb1a8ee2
+      internalID: 1553657135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_142
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 123
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 471df9005a97acc4d9ba110b71862a3d
+      internalID: -1912713721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_143
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 123
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fe691700a2bb734b8d4945285ad036c
+      internalID: 524675340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_144
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 123
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3eef6a4380fd1c41ad52830b8d7a9f9
+      internalID: -1470733694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_145
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 123
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 555bdacceaece4e47a495e72a427c574
+      internalID: 853773838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_146
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 123
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 351d76f3fe4f849488ab590ab3314ae1
+      internalID: -503137269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_147
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 123
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b3d88d57abbc1a4a959ebb5d1b0cc65
+      internalID: -886213155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_148
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 123
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65adbdcdd46ae3544994d91a20c7a247
+      internalID: -1190761723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_149
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 123
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 839d883ca34fcf1429483e9b5c96d40b
+      internalID: 1185317133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_150
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 123
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dc7d269e0d978c4bb8608c9ae6cd816
+      internalID: 2120366149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_151
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 123
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d757ebd9d1b5e24ea771294d5c9b090
+      internalID: 931433986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_152
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 123
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 966745ac729c1f548852be5211e5ffa1
+      internalID: 208822219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_153
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 123
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8196e1494b690b24eb258f918913ef1d
+      internalID: 171829154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_154
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 100
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4009f1a225b71b844a94e9cee5e8240a
+      internalID: -744644004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_155
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 100
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3462368f565c77f47aab17b37f428050
+      internalID: -715849362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_156
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 100
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3f6528de4fa38e43876f6f8206ab798
+      internalID: 131244132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_157
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 100
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f88166b4549e0fa4e95683b44e3d79d9
+      internalID: 1124512244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_158
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 100
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b225e466772c9147b270112c34eebf8
+      internalID: 264583577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_159
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 100
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc1840c2e8bcc3744836d7548b9fdd09
+      internalID: -1879399311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_160
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 100
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af9511c64e4a89345850ddde1d626a0b
+      internalID: 123756878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_161
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 100
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3072423791e465d459d90017c8964443
+      internalID: -1417569125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_162
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 100
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e25df8ecad8663f47b85be162f1982dd
+      internalID: -289851427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_163
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 100
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccc02b93ebc26654e95928c441f8dbdd
+      internalID: 1079886720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_164
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 100
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c33394a9f5917b4398f2f3ef12831cc
+      internalID: -818793107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_165
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 100
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbc2d17693db3784db9c2ec662f4b799
+      internalID: 947710129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_166
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 100
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c9355b57ff348249baacb6110240cba
+      internalID: -1304026028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_167
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 100
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5135d5613f0b8ac45be6b6fc862a36a6
+      internalID: 1838687467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_168
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 77
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f583b16210b8e845a5a8c49d7e86a1b
+      internalID: 1204250013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_169
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 77
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aac50da2c9158e64598cc81909565fe1
+      internalID: -540501497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_170
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 77
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3ba9da2f76d7c2498cb62dda2e20b0a
+      internalID: 1420342154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_171
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 77
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a34585cb2b97e8541a894f3bca53cbc2
+      internalID: 748046913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_172
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 77
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bd8bae7ade1cb34a929aada4519b454
+      internalID: -1044469629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_173
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 77
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6342ae12abc2bd7468a07fb213256478
+      internalID: -805276357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_174
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 77
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e801e9099586cd40be74156a147640d
+      internalID: 1940412255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_175
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 77
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91c5bc9b9dd1f83478212191f0fa7095
+      internalID: 528799584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_176
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 77
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b39c939fb7228247af8888ba12ff385
+      internalID: 443267790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_177
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 77
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c35dd55fe955eb499dc7aad2804e100
+      internalID: 244517132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_178
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 77
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bafff2d4b0e8cc746adebdb698f13729
+      internalID: -893766845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_179
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 77
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a49a45096ad24c94baee1c31585e9e77
+      internalID: 1867692726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_180
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 77
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 395c191614637f048b070f11b92625b6
+      internalID: -766832299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_181
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 77
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5a7ba780615da04283c6cf04a298d96
+      internalID: 200341730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_182
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 54
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f69cb73304c4afb459efcb0d41100d48
+      internalID: 100206334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_183
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 54
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8430ce95f7222d040aac55b4a988d6d8
+      internalID: 1702375765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_184
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 54
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdaf9c8e2106c704e8cbf8d4fea86e9b
+      internalID: 1012299111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_185
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 54
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10c33bac62760ea48872ea812adfbd71
+      internalID: 478815065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_186
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 54
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bc3a07e0a59b02409cbe5b47f92030e
+      internalID: -1125707260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_187
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 54
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61a39fb2ebe50754cbf88bbc84d97734
+      internalID: -981549148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_188
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 54
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a5b2bff0a3113e499b9d3f11a52830b
+      internalID: 1504468763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_189
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 54
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9028f9d6fcee28a4aa856382488e9d4a
+      internalID: -142569732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_190
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 54
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c24f554a3699a12459188b64af9e5898
+      internalID: -969049612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_191
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 54
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0280b7bbbc1d26244bedcced8524ce35
+      internalID: 1056294471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_192
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 54
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 057e13b9968de2940b7f0897f7b6dd5b
+      internalID: -225583378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_193
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 54
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c748a70b4a78b874393a3d24a5e2563f
+      internalID: -537384891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_194
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 54
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81eaeba2addc85f498dd67eca53ee363
+      internalID: -821549427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_195
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 54
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3227f23dd19e8d4ca877baa07305151
+      internalID: 1287802867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_196
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 31
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5abef1f35cc0f6d478d1d8dbf5651fa6
+      internalID: 561244904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_197
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 31
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5fac460ab0db2444a44d7eddd02b3c2
+      internalID: 1265831855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_198
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 31
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 097a689846319054a81e95050b8e3db4
+      internalID: -270191642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_199
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 31
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7b2389301d3c2e45af47453dbb3944f
+      internalID: -704109752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_200
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 31
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8481bccdfa8b6364ea5f8c8893b382b0
+      internalID: 610944584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_201
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 31
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e39c8e0183e06d74680604c90c466412
+      internalID: -417894976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_202
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 31
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37bc3e561d8882c428231fb336625422
+      internalID: 1422906815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_203
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 31
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3e3238adad5e7940b7cf14687c49b73
+      internalID: 1330791804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_204
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 31
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73c60ee29c997ad499ca2cf1a4e8e425
+      internalID: 919483373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_205
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 31
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc8d6d61b45901d43a100a650bbe344a
+      internalID: 39704767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_206
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 31
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6834b28407b379844af1ec60d5de98a0
+      internalID: -623215033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_207
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 31
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dc4e3ff9a8cfed458d9f87872a24beb
+      internalID: 142372212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_208
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 31
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e78af21aecd403428c15fa78fe7558e
+      internalID: -1708318587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_209
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 31
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b05fefe75e97d594aba411965806ebc2
+      internalID: -483758083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_210
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 8
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bd3e5de4bc65f1449cb11c31572f335
+      internalID: -2013992832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_211
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 8
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6aaef73d2829724492560acbb898179
+      internalID: -1133778611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_212
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 8
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0fbad347fc9d1444b888a2abdd3ef09
+      internalID: -1175323964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_213
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 8
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c4970374078ce3409c3232b3ea25e5c
+      internalID: -1474165910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_214
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 8
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04c28cca1fb155d4fb273b9131e69ac3
+      internalID: -427016503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_215
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 8
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e85aa2e9f81a704285afc6d29a3b604
+      internalID: 1980913844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_216
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 8
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 721af6bf861c2b04eb4c258059c38bce
+      internalID: -1420552160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_217
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 8
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61a61880d95de2141bdc84eb2937daff
+      internalID: 1923660300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_218
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 8
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2af5ddfe02ad94e4ebb26a4bc7eb5cc1
+      internalID: -1597999488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_219
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 8
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c0c106d985c3f5428af9b79f86e6b80
+      internalID: -1015696240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_220
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 8
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ded9af28b704754c8577f2292b25639
+      internalID: -1173599968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_221
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 8
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e5bef713466c654b9c77374c58ff9c5
+      internalID: 1029252460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_222
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 8
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c111640c516af845939a4799f2b272b
+      internalID: -410873265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Font_OldeTome_223
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 8
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9881fa1fd3a8c54b8ed0182f11ab44c
+      internalID: 1347057652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 208ed2f6b5ba00449aa609df854a16b6
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Font_OldeTome_0: 1179998398
+      Font_OldeTome_1: -1072549303
+      Font_OldeTome_10: 2064047240
+      Font_OldeTome_100: -1811965151
+      Font_OldeTome_101: 815555442
+      Font_OldeTome_102: -106597818
+      Font_OldeTome_103: 269876419
+      Font_OldeTome_104: 1576392274
+      Font_OldeTome_105: 1402079990
+      Font_OldeTome_106: 1364277031
+      Font_OldeTome_107: 914172328
+      Font_OldeTome_108: 1629073657
+      Font_OldeTome_109: -781184426
+      Font_OldeTome_11: 2047783023
+      Font_OldeTome_110: 1286007405
+      Font_OldeTome_111: -1609655249
+      Font_OldeTome_112: -2051446005
+      Font_OldeTome_113: -1852312248
+      Font_OldeTome_114: 464637145
+      Font_OldeTome_115: -1369570097
+      Font_OldeTome_116: -82442800
+      Font_OldeTome_117: 1972128750
+      Font_OldeTome_118: -1669818504
+      Font_OldeTome_119: -1634641726
+      Font_OldeTome_12: 1619189279
+      Font_OldeTome_120: 581278215
+      Font_OldeTome_121: -1521800600
+      Font_OldeTome_122: -1714511825
+      Font_OldeTome_123: -1215906414
+      Font_OldeTome_124: 946192395
+      Font_OldeTome_125: 267667110
+      Font_OldeTome_126: 1917565694
+      Font_OldeTome_127: 85524439
+      Font_OldeTome_128: -377614301
+      Font_OldeTome_129: 1544289498
+      Font_OldeTome_13: -68404459
+      Font_OldeTome_130: -686230193
+      Font_OldeTome_131: 507931729
+      Font_OldeTome_132: 206662267
+      Font_OldeTome_133: 2041759091
+      Font_OldeTome_134: -916030653
+      Font_OldeTome_135: 887416624
+      Font_OldeTome_136: 1801594730
+      Font_OldeTome_137: -64833169
+      Font_OldeTome_138: -1732457634
+      Font_OldeTome_139: 1737942442
+      Font_OldeTome_14: -2127451829
+      Font_OldeTome_140: 1157400147
+      Font_OldeTome_141: 1553657135
+      Font_OldeTome_142: -1912713721
+      Font_OldeTome_143: 524675340
+      Font_OldeTome_144: -1470733694
+      Font_OldeTome_145: 853773838
+      Font_OldeTome_146: -503137269
+      Font_OldeTome_147: -886213155
+      Font_OldeTome_148: -1190761723
+      Font_OldeTome_149: 1185317133
+      Font_OldeTome_15: -1497922842
+      Font_OldeTome_150: 2120366149
+      Font_OldeTome_151: 931433986
+      Font_OldeTome_152: 208822219
+      Font_OldeTome_153: 171829154
+      Font_OldeTome_154: -744644004
+      Font_OldeTome_155: -715849362
+      Font_OldeTome_156: 131244132
+      Font_OldeTome_157: 1124512244
+      Font_OldeTome_158: 264583577
+      Font_OldeTome_159: -1879399311
+      Font_OldeTome_16: 369468581
+      Font_OldeTome_160: 123756878
+      Font_OldeTome_161: -1417569125
+      Font_OldeTome_162: -289851427
+      Font_OldeTome_163: 1079886720
+      Font_OldeTome_164: -818793107
+      Font_OldeTome_165: 947710129
+      Font_OldeTome_166: -1304026028
+      Font_OldeTome_167: 1838687467
+      Font_OldeTome_168: 1204250013
+      Font_OldeTome_169: -540501497
+      Font_OldeTome_17: -1738052843
+      Font_OldeTome_170: 1420342154
+      Font_OldeTome_171: 748046913
+      Font_OldeTome_172: -1044469629
+      Font_OldeTome_173: -805276357
+      Font_OldeTome_174: 1940412255
+      Font_OldeTome_175: 528799584
+      Font_OldeTome_176: 443267790
+      Font_OldeTome_177: 244517132
+      Font_OldeTome_178: -893766845
+      Font_OldeTome_179: 1867692726
+      Font_OldeTome_18: -590049700
+      Font_OldeTome_180: -766832299
+      Font_OldeTome_181: 200341730
+      Font_OldeTome_182: 100206334
+      Font_OldeTome_183: 1702375765
+      Font_OldeTome_184: 1012299111
+      Font_OldeTome_185: 478815065
+      Font_OldeTome_186: -1125707260
+      Font_OldeTome_187: -981549148
+      Font_OldeTome_188: 1504468763
+      Font_OldeTome_189: -142569732
+      Font_OldeTome_19: -881276379
+      Font_OldeTome_190: -969049612
+      Font_OldeTome_191: 1056294471
+      Font_OldeTome_192: -225583378
+      Font_OldeTome_193: -537384891
+      Font_OldeTome_194: -821549427
+      Font_OldeTome_195: 1287802867
+      Font_OldeTome_196: 561244904
+      Font_OldeTome_197: 1265831855
+      Font_OldeTome_198: -270191642
+      Font_OldeTome_199: -704109752
+      Font_OldeTome_2: -1530343614
+      Font_OldeTome_20: 1292739255
+      Font_OldeTome_200: 610944584
+      Font_OldeTome_201: -417894976
+      Font_OldeTome_202: 1422906815
+      Font_OldeTome_203: 1330791804
+      Font_OldeTome_204: 919483373
+      Font_OldeTome_205: 39704767
+      Font_OldeTome_206: -623215033
+      Font_OldeTome_207: 142372212
+      Font_OldeTome_208: -1708318587
+      Font_OldeTome_209: -483758083
+      Font_OldeTome_21: -1824731643
+      Font_OldeTome_210: -2013992832
+      Font_OldeTome_211: -1133778611
+      Font_OldeTome_212: -1175323964
+      Font_OldeTome_213: -1474165910
+      Font_OldeTome_214: -427016503
+      Font_OldeTome_215: 1980913844
+      Font_OldeTome_216: -1420552160
+      Font_OldeTome_217: 1923660300
+      Font_OldeTome_218: -1597999488
+      Font_OldeTome_219: -1015696240
+      Font_OldeTome_22: -1595955800
+      Font_OldeTome_220: -1173599968
+      Font_OldeTome_221: 1029252460
+      Font_OldeTome_222: -410873265
+      Font_OldeTome_223: 1347057652
+      Font_OldeTome_23: 2115968203
+      Font_OldeTome_24: 1588887476
+      Font_OldeTome_25: 1374182593
+      Font_OldeTome_26: 2116555389
+      Font_OldeTome_27: 777550987
+      Font_OldeTome_28: 2085617538
+      Font_OldeTome_29: -808585007
+      Font_OldeTome_3: -1398616943
+      Font_OldeTome_30: -745485058
+      Font_OldeTome_31: 1536253570
+      Font_OldeTome_32: 382131359
+      Font_OldeTome_33: 1968317254
+      Font_OldeTome_34: 1303651428
+      Font_OldeTome_35: 950669023
+      Font_OldeTome_36: -407139775
+      Font_OldeTome_37: -1755892729
+      Font_OldeTome_38: 1424058473
+      Font_OldeTome_39: 1736185789
+      Font_OldeTome_4: -2025965911
+      Font_OldeTome_40: -1316080278
+      Font_OldeTome_41: -1763605571
+      Font_OldeTome_42: -376487706
+      Font_OldeTome_43: -1702030683
+      Font_OldeTome_44: -929983532
+      Font_OldeTome_45: -1979383397
+      Font_OldeTome_46: -2116105352
+      Font_OldeTome_47: 2094589792
+      Font_OldeTome_48: 1732433394
+      Font_OldeTome_49: -1290537688
+      Font_OldeTome_5: 1124809458
+      Font_OldeTome_50: -1322940335
+      Font_OldeTome_51: -347872523
+      Font_OldeTome_52: 1823050137
+      Font_OldeTome_53: 945332046
+      Font_OldeTome_54: -1033077770
+      Font_OldeTome_55: -126059797
+      Font_OldeTome_56: -351744740
+      Font_OldeTome_57: 2045430243
+      Font_OldeTome_58: 2080317435
+      Font_OldeTome_59: 1046911160
+      Font_OldeTome_6: 642225089
+      Font_OldeTome_60: 890150399
+      Font_OldeTome_61: 1265810853
+      Font_OldeTome_62: 46826199
+      Font_OldeTome_63: -1970140818
+      Font_OldeTome_64: -1074215857
+      Font_OldeTome_65: -1232150475
+      Font_OldeTome_66: -339283658
+      Font_OldeTome_67: 1127783199
+      Font_OldeTome_68: 1837138096
+      Font_OldeTome_69: 1466742593
+      Font_OldeTome_7: -717825198
+      Font_OldeTome_70: 1953504450
+      Font_OldeTome_71: 906389597
+      Font_OldeTome_72: -637374176
+      Font_OldeTome_73: -657795280
+      Font_OldeTome_74: -885335661
+      Font_OldeTome_75: 807030948
+      Font_OldeTome_76: -254482925
+      Font_OldeTome_77: 1686618295
+      Font_OldeTome_78: 1868249081
+      Font_OldeTome_79: -2058470266
+      Font_OldeTome_8: 810673955
+      Font_OldeTome_80: 1482518865
+      Font_OldeTome_81: -270853219
+      Font_OldeTome_82: -1592409359
+      Font_OldeTome_83: -222959248
+      Font_OldeTome_84: -1946123378
+      Font_OldeTome_85: 133348265
+      Font_OldeTome_86: -1946678849
+      Font_OldeTome_87: 695396645
+      Font_OldeTome_88: -309146223
+      Font_OldeTome_89: 1800257463
+      Font_OldeTome_9: 409046264
+      Font_OldeTome_90: 1402995281
+      Font_OldeTome_91: 1459705185
+      Font_OldeTome_92: -969558777
+      Font_OldeTome_93: -51029754
+      Font_OldeTome_94: -337541553
+      Font_OldeTome_95: -1327674233
+      Font_OldeTome_96: 2075242181
+      Font_OldeTome_97: 289888350
+      Font_OldeTome_98: -551812840
+      Font_OldeTome_99: -981572026
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
